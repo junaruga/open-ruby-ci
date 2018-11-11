@@ -1,0 +1,9 @@
+dist: trusty
+language: c
+sudo: false
+os: linux
+install: true
+script: true
+branches:
+  only:
+    - master
