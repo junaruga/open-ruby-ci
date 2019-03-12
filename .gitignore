@@ -1,3 +1,4 @@
 *.o
 *.swp
 *~
+/ruby_src/ruby
