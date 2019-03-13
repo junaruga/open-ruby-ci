@@ -1,5 +1,7 @@
 # Open Ruby CI
 
+[![Build Status](https://travis-ci.org/junaruga/open-ruby-ci.svg?branch=master)](https://travis-ci.org/junaruga/open-ruby-ci)
+
 Open Ruby CI with only open and free resources.
 
 ## Cencepts
